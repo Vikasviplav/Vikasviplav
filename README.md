@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasviplav&label=Profile%20views&color=0e75b6&style=flat" alt="vikasviplav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikasviplav" alt="vikasviplav" /></a> </p>
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47muab9xm3655ira09vy56m0n28y2fiqng15x9rjqv&rid=200.webp&ct=g" width="800" />
+
+
 
 - 🌱 I’m currently learning **ReactJs, NodeJs**
 
@@ -30,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikasviplav&show_icons=true&locale=en" alt="vikasviplav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikasviplav&" alt="vikasviplav" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikasviplav" alt="vikasviplav" /></a> </p>
