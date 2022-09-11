@@ -9,6 +9,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
+ </div>
 
 <h1 align="center">Hi 👋, I'm Vikas Viplav</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
