@@ -11,19 +11,25 @@
   </div>
  </div>
 
-<h1 align="center">Hi 👋, I'm Vikas Viplav</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1 align="center">Hi there! I'm Vikas Viplav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+ <br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
+  <br>
+<hr/>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
+### :man_technologist: About Me :
 
-- 🌱 I’m currently learning **ReactJs, NodeJs**
+- 🌱 I’m currently learning Full-Stack Web Development from **Masai School**.
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **Vikashvipplav@gmail.com**
 
-- ⚡ Fun fact **I am a group entertainer**
+- ⚡ Solving coding problems on HackerRank, Leetcode & GeeksForGeeks and explore new skills is my favourite pastime
+  .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
