@@ -28,6 +28,8 @@
 
 - 💬 Ask me about **MERN**
 
+- 💼 Pls visit **<a href="https://about-vikas-viplav.netlify.app/">My Portfolio</a>**
+
 - 📫 How to reach me **Vikashvipplav@gmail.com**
 
 - ⚡ Solving coding problems on HackerRank, Leetcode & GeeksForGeeks and explore new skills is my favourite pastime
