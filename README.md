@@ -51,7 +51,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikasviplav" alt="vikasviplav" /></a> </p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vikasviplav&&theme=xcode)](https://github.com/vikasviplav)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikasviplav&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vikasviplav" /></p>
 
