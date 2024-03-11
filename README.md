@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **Vikashvipplav@gmail.com**
 
-- 📉 **Have a look into** [My Resume](https://drive.google.com/file/d/1SMMVffcPwCASlv4QRTAUlcb5gxA89Tco/view?usp=sharing)
+- 📉 **Have a look into** [My Resume]([https://drive.google.com/file/d/1SMMVffcPwCASlv4QRTAUlcb5gxA89Tco/view?usp=sharing](https://drive.google.com/file/d/1jMhSwnVm3HdDSjXIk7-R63BKFKBXYOud/view?usp=drive_link))
 
 - ⚡ Solving coding problems on HackerRank, Leetcode & GeeksForGeeks and explore new skills is my favourite pastime
   .
