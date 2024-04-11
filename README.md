@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me :
 
-- 🌱 I’m currently learning Full-Stack Web Development from **Masai School**.
+- 🌱 I’m currently working as an associate software engineer at **Tricog Health, Bangalore**.
 
 - 💬 Ask me about **MERN**
 
@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **Vikashvipplav@gmail.com**
 
-- 📉 **Have a look into** [My Resume](https://drive.google.com/file/d/1jMhSwnVm3HdDSjXIk7-R63BKFKBXYOud/view?usp=sharing)
+- 📉 **Have a look into** [My Resume](https://drive.google.com/file/d/1MBVE5ph6vIRS80rwH5ZqNvh9ZIGgkSHB/view?usp=sharing)
 
 - ⚡ Solving coding problems on HackerRank, Leetcode & GeeksForGeeks and explore new skills is my favourite pastime
   .
